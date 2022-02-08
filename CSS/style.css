@@ -28,6 +28,7 @@ html, body {
   content: "|";
   -webkit-animation: blink 500ms linear infinite alternate;
           animation: blink 500ms linear infinite alternate;
+  color: #0a0;
 }
 
 @-webkit-keyframes blink {
